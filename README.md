@@ -6,15 +6,15 @@ Asides from being cool, motion sensors are applicable in field surveys that invo
 # Sensor components
 The sensor components utilized in this project include a breadboard, Arduino uno R3 board, LED light, a 220 ohm resistor, A buzzer, Hcsr04 sonic emitter and receiver and a handful of jumper wires.
 # Sensor wiring
-Arduino Uno 5v - HCSR VCC
-Arduino Uno GND - HCSR GND
-Arduino Uno 10 - HCSR Echo
-Arduino Uno 9 - HCSR Trig
-Arduino Uno 11 - Buzzer positive node in breadboard
-Arduino Uno GND - Buzzer negative node in breadboard
-Arduino Uno GND - Negative end of LED and resistor
-Arduino Uno 13 - Other end of resistor
-Resistor is placed in between negative end of LED and Arduino Uno GND
+Arduino Uno 5v - HCSR VCC,
+Arduino Uno GND - HCSR GND,
+Arduino Uno 10 - HCSR Echo,
+Arduino Uno 9 - HCSR Trig,
+Arduino Uno 11 - Buzzer positive node in breadboard,
+Arduino Uno GND - Buzzer negative node in breadboard,
+Arduino Uno GND - Negative end of LED and resistor,
+Arduino Uno 13 - Other end of resistor,
+Resistor is placed in between negative end of LED and Arduino Uno GND.
 
 ![Image (1)](https://github.com/user-attachments/assets/17bb7ff4-ae45-4b30-a60c-810397d9fd8a)
 ![Image (2)](https://github.com/user-attachments/assets/77b5a643-2f36-4690-9a66-cb6748ca8883)
